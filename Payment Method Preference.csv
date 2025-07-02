@@ -1,0 +1,4 @@
+PaymentMethod,NumberOfOrders,TotalRevenue
+"Credit Card",120,51170.86
+"PayPal",80,21268.06
+"Debit Card",40,8128.93
